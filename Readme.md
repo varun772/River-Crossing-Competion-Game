@@ -1,4 +1,8 @@
-# Documentation:
+# PYTHON GAME:
+## How to Run:
+```
+python3 main.py
+```
 ## Controls:
 ```
 UP ,DOWN, LEFT, RIGHT
